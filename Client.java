@@ -29,7 +29,7 @@ public class Client {
         this.advisor = advisor;
     }
 
-    // Getters and Setters
+    
     public Long getClientId() { return clientId; }
     public void setClientId(Long clientId) { this.clientId = clientId; }
 
