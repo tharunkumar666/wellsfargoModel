@@ -24,7 +24,7 @@ public class FinancialAdvisor {
         this.phone = phone;
     }
 
-    // Getters and Setters
+    
     public Long getAdvisorId() { return advisorId; }
     public void setAdvisorId(Long advisorId) { this.advisorId = advisorId; }
 
