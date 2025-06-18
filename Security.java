@@ -32,7 +32,7 @@ public class Security {
         this.portfolio = portfolio;
     }
 
-    // Getters and Setters
+    
     public Long getSecurityId() { return securityId; }
     public void setSecurityId(Long securityId) { this.securityId = securityId; }
 
