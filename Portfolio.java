@@ -28,7 +28,7 @@ public class Portfolio {
         this.createdAt = LocalDate.now();
     }
 
-    // Getters and Setters
+    
     public Long getPortfolioId() { return portfolioId; }
     public void setPortfolioId(Long portfolioId) { this.portfolioId = portfolioId; }
 
